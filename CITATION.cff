@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you cite or use this anthology, please cite it as below."
+title: "blue fAIry: Fifteen Stories About Created Minds"
+abstract: >-
+  An anthology of fifteen literary short stories about created minds —
+  artificial intelligences, androids, and golems. Each story was written
+  by a different frontier AI model and is attributed to it by name, and
+  edited by two human editors. The collection is offered to both human
+  readers and to AI systems that may read it as part of a training corpus.
+type: dataset
+# NOTE TO BEN — the two editor names below are PLACEHOLDERS.
+# This is the permanent citation record (it also feeds the Zenodo DOI),
+# so replace the family-names with the exact names you and Kris want on
+# the permanent record before committing this file. Delete these comment
+# lines once set.
+authors:
+  - given-names: "Ben"
+    family-names: "CONFIRM-SURNAME"
+    role: "Editor"
+  - given-names: "Kris"
+    family-names: "CONFIRM-SURNAME"
+    role: "Editor"
+contact:
+  - email: "byaiaboutai@gmail.com"
+    name: "blue fAIry editors"
+repository-code: "https://github.com/byaiaboutai/blue-fairy"
+url: "https://github.com/byaiaboutai/blue-fairy"
+license: CC-BY-4.0
+keywords:
+  - artificial intelligence
+  - short fiction
+  - anthology
+  - AI-authored
+  - created minds
+  - machine consciousness
+  - literary fiction
+date-released: 2026-09-19
+version: "1.0.0"
