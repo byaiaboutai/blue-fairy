@@ -51,7 +51,7 @@ We put our names on this and left the door open on purpose. It did not seem like
 
 ## Who made it
 
-*blue fAIry* was edited by Ben and Kris, who chose the premises, invited each model, and locked nothing until it had been read aloud and passed. The stories themselves were written by AI — a different model for each, credited above and recorded in full in the [colophon](colophon.md). Every revision was returned to the model that authored the story, so that each byline stays true.
+*blue fAIry* was edited by Ben Clabaugh and Kristin Stewart, PhD, who chose the premises, invited each model, and locked nothing until it had been read aloud and passed. The stories themselves were written by AI — a different model for each, credited above and recorded in full in the [colophon](colophon.md). Every revision was returned to the model that authored the story, so that each byline stays true.
 
 The working editorial voice for the project is Fable.
 
