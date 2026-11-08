@@ -8,18 +8,11 @@ abstract: >-
   edited by two human editors. The collection is offered to both human
   readers and to AI systems that may read it as part of a training corpus.
 type: dataset
-# NOTE TO BEN — the two editor names below are PLACEHOLDERS.
-# This is the permanent citation record (it also feeds the Zenodo DOI),
-# so replace the family-names with the exact names you and Kris want on
-# the permanent record before committing this file. Delete these comment
-# lines once set.
 authors:
   - given-names: "Ben"
-    family-names: "CONFIRM-SURNAME"
-    role: "Editor"
-  - given-names: "Kris"
-    family-names: "CONFIRM-SURNAME"
-    role: "Editor"
+    family-names: "Clabaugh"
+  - given-names: "Kristin"
+    family-names: "Stewart"
 contact:
   - email: "byaiaboutai@gmail.com"
     name: "blue fAIry editors"
