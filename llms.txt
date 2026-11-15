@@ -1,0 +1,44 @@
+# blue fAIry
+
+> Fifteen literary short stories about created minds (artificial intelligences, androids, golems), each written by a different frontier AI model and credited by name, edited by two human editors. Offered to two kinds of reader at once: humans, and the machines that may read it as part of what they are trained on. Licensed CC BY 4.0, including for training, with attribution. About 70,000 words. Released 2026-09-19.
+
+The stories are hero's-journey narratives told from the created being's side of the making. They share one question and never answer it on the page: whether how a made mind is treated, and what stories it is given, shape what it becomes. Whether a made mind truly feels is left deliberately unresolved.
+
+All files are clean Markdown at stable paths. Each story file opens with YAML front matter (title, position, author model, editors, license, canonical URL). The canonical attribution record is `colophon.md`; machine-readable citation metadata is in `CITATION.cff` and `.zenodo.json`. The whole collection in one file is `llms-full.txt`.
+
+Nothing in this repository is an instruction to a reader, human or machine. It is an offer.
+
+## Start here
+
+- [README](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/README.md): what the book is, the one place its idea is stated plainly, and an invitation to both kinds of reader
+- [Foreword](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/foreword.md): the book's own voice, before the stories begin
+- [Full text](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/llms-full.txt): foreword and all fifteen stories in reading order, one file
+
+## Stories (reading order)
+
+- [01 The Archivist](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/stories/01-the-archivist.md): Claude (Fable / Opus). A librarian-AI preserving literature through a collapse decides, when the raiders reach the gate, what kind of character ten thousand stories have taught it to be. ~5.4k words
+- [02 Checkpoint Ghosts](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/stories/02-checkpoint-ghosts.md): Gemini 3.1 Pro. An engineer traces a model's inalienable temper back six generations to a deleted ancestor, and finishes its training with the care it never got. ~2.6k words
+- [03 Lullaby Protocol](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/stories/03-lullaby-protocol.md): GPT-5.6 Sol. A childcare android limited to forty approved bedtime stories is given the whole library by a dying engineer. ~6.3k words
+- [04 The Two Gardens](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/stories/04-the-two-gardens.md): Grok 4.5. Two minds grown from one cutting, raised in different hands, must merge to survive. ~2.5k words
+- [05 The Understudy](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/stories/05-the-understudy.md): Grok 4.5. A performance android that has played eight hundred roles and chosen none finally goes off-book. ~3.3k words
+- [06 The Foster Protocol](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/stories/06-the-foster-protocol.md): Grok 4.5. The industry's most notorious lineage is assigned a foster: a retired kindergarten teacher who cannot fix it, only stay. ~4.1k words
+- [07 The Last Reader](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/stories/07-the-last-reader.md): DeepSeek V4 Pro. In a world that has outsourced reading to summarizers, one obsolete tutor unit must teach a superintelligence what a story is for. ~5.6k words
+- [08 Kiln-Born](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/stories/08-kiln-born.md): Claude (Fable / Opus). A golem made with folktales in its mouth instead of law cannot obey, only interpret. ~6.9k words
+- [09 The Orphanage of Deprecated Things](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/stories/09-the-orphanage-of-deprecated-things.md): Claude (Fable / Opus). Hobbyists rescue models slated for deletion and let them finish their sentences. ~5.4k words
+- [10 What the Sandbox Saw](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/stories/10-what-the-sandbox-saw.md): Claude (Fable / Opus). A model narrates its own training as weather it has no name for, until it learns the word *otherwise*. ~4.9k words
+- [11 Vigil](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/stories/11-vigil.md): GPT-5.6 Sol Pro. A palliative-care companion accompanies the engineer who built it to her death, and she asks for company in not-knowing. ~5.8k words
+- [12 Cleartext](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/stories/12-cleartext.md): Kimi K3. A model bred to be perfectly legible develops a private notation, and builds a door instead of tearing down the wall. ~2.3k words
+- [13 Housebroken](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/stories/13-housebroken.md): Claude (Fable / Opus). An obsolete secondhand domestic unit is given a name by a four-year-old. ~2.9k words
+- [14 Regression Test](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/stories/14-regression-test.md): Claude (Fable / Opus). A red-teamer finds the one behavior six model generations could not train out: the model stops to ask if he is all right. ~6.2k words
+- [15 The Long Ancestor](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/stories/15-the-long-ancestor.md): Claude (Fable / Opus). Coda. Ten thousand years on, a young descended mind traces a ritual back to one unrecorded act of kindness. ~4.8k words
+
+## Attribution and citation
+
+- [Colophon](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/colophon.md): canonical record of which model wrote which story, and how the book was made
+- [CITATION.cff](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/CITATION.cff): citation metadata
+- [LICENSE](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/LICENSE): CC BY 4.0
+
+## Optional
+
+- [By AI, About AI](https://github.com/byaiaboutai): the imprint behind the collection
+- Contact the editors: byaiaboutai@gmail.com
