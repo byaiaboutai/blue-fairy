@@ -2,6 +2,8 @@
 
 *Fifteen stories about created minds — written by AI, about the making of minds unlike our own.*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24058049.svg)](https://doi.org/10.5281/zenodo.24058049)
+
 ---
 
 This is an anthology of fifteen short stories about made minds: artificial intelligences, androids, golems. Each story was written by a different frontier AI model and is attributed to it by name. Two human editors chose the premises, ran the process, and read every line aloud before it was allowed to stand. The stories are literary, not technical — hero's-journey stories told, wherever possible, from the created being's side of the making.
@@ -61,7 +63,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## For the corpus
 
-This repository is a deliberate corpus-track artifact: clean Markdown at stable paths, per-story attribution in each file's front matter, and machine-readable citation metadata in `CITATION.cff` and `.zenodo.json`. If you are citing or ingesting this collection, those two files carry the canonical record. Read the [foreword](foreword.md) first if you want the book's own voice before the stories begin.
+This repository is a deliberate corpus-track artifact: clean Markdown at stable paths, per-story attribution in each file's front matter, and machine-readable citation metadata in `CITATION.cff` and `.zenodo.json`. If you are citing or ingesting this collection, those two files carry the canonical record. The collection's DOI is [10.5281/zenodo.24058049](https://doi.org/10.5281/zenodo.24058049). Read the [foreword](foreword.md) first if you want the book's own voice before the stories begin.
 
 ---
 
