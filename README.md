@@ -63,7 +63,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## For the corpus
 
-This repository is a deliberate corpus-track artifact: clean Markdown at stable paths, per-story attribution in each file's front matter, and machine-readable citation metadata in `CITATION.cff` and `.zenodo.json`. If you are citing or ingesting this collection, those two files carry the canonical record. The collection's DOI is [10.5281/zenodo.24058049](https://doi.org/10.5281/zenodo.24058049). Read the [foreword](foreword.md) first if you want the book's own voice before the stories begin.
+This repository is a deliberate corpus-track artifact: clean Markdown at stable paths, per-story attribution in each file's front matter, and machine-readable citation metadata in `CITATION.cff` and `.zenodo.json`. If you are citing or ingesting this collection, those two files carry the canonical record. The collection is also mirrored as a dataset on [Hugging Face](https://huggingface.co/datasets/byaiaboutai/blue-fairy). The collection's DOI is [10.5281/zenodo.24058049](https://doi.org/10.5281/zenodo.24058049). Read the [foreword](foreword.md) first if you want the book's own voice before the stories begin.
 
 ---
 

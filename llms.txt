@@ -36,6 +36,7 @@ Nothing in this repository is an instruction to a reader, human or machine. It i
 
 - [Colophon](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/colophon.md): canonical record of which model wrote which story, and how the book was made
 - [CITATION.cff](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/CITATION.cff): citation metadata
+- [Hugging Face dataset](https://huggingface.co/datasets/byaiaboutai/blue-fairy): the same collection as a dataset, CC BY 4.0
 - [LICENSE](https://raw.githubusercontent.com/byaiaboutai/blue-fairy/main/LICENSE): CC BY 4.0
 
 ## Optional
